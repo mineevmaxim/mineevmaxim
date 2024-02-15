@@ -19,10 +19,10 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=production-project)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ellepheria/production-project))
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akakayka&repo=Mobile-app)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/akakayka/Mobile-app))
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=production-project)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ellepheria/production-project))
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akakayka&repo=Mobile-app)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/akakayka/Mobile-app))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=Ulearn-Python)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ellepheria/Ulearn-Python))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=UsmaTimetableBot)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ellepheria/UsmaTimetableBot))
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=production-project)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ellepheria/production-project))
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akakayka&repo=Mobile-app)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/akakayka/Mobile-app))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=ulearn-practicies)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ellepheria/ulearn-practicies))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=digital-portfolio-fj)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ellepheria/digital-portfolio-fj))
 
 </div>
