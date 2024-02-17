@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE4NTl1YjNnMXhyb25rNXphMjIwdHlicm82ZDBta2FuOXhzZDVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CwTvSiWflgCGKgz5eb/giphy.gif" width="150"/>
+  <img src="https://github.com/ellepheria/ellepheria/assets/98586096/40e23739-1742-4b85-b7c0-da3723a9fbf4" width="200"/>
+
   <div id="badges">
     <a href="https://t.me/ellepheria">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
