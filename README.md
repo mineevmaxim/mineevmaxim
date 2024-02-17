@@ -14,6 +14,22 @@
   </div>
   <h1>Привет, меня зовут Максим, я Frontend-разработчик</h1>
 
+  <h2>Обо мне:</h2>
+
+  <ul align="left">
+    <li>
+      Студент второго курса Уральского Федерального Университета, направление "Программная инженерия";
+    </li>
+    <li>
+      Окончил ФизМат профиль Специализированного Учебно-Научного Центра УрФУ;
+    </li>
+    <li>
+      С 2020 года изучаю Web-разработку, выполнил несколько индивидуалных и командных учебных проектов, в команде участвовал в ролях Тимлида и Frontend-разработчика;
+    </li>
+  </ul>
+
+  <h2>Мой стек:</h2>
+
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/eaa095ed-622a-479c-a23e-c9250a4fcbf5" alt="HTML5" width="50" />
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/93c55446-8859-4bb9-a029-0827768d5dc3" alt="CSS" width="50" />
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/515b5481-8c0d-4a36-bb39-1221316f1f2e" alt="SASS" width="50" />
