@@ -7,9 +7,9 @@
     <a href="https://vk.com/ellepheria">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
     </a>
-<!--     <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a> -->
+    <a href="mailto:maksim.mineeff@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
 <!--     https://simpleicons.org/ -->
   </div>
   <h1>Привет, меня зовут Максим, я Frontend-разработчик</h1>
