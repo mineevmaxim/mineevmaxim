@@ -53,4 +53,6 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=ulearn-practicies)](https://github.com/ellepheria/ulearn-practicies)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=digital-portfolio-fj)](https://github.com/ellepheria/digital-portfolio-fj)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellepheria)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
