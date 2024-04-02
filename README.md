@@ -2,10 +2,10 @@
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/40e23739-1742-4b85-b7c0-da3723a9fbf4" width="200"/>
 
   <div id="badges">
-    <a href="https://t.me/ellepheria">
+    <a href="https://t.me/mineevmaxim">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://vk.com/ellepheria">
+    <a href="https://vk.com/mineevmaxim">
       <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
     </a>
     <a href="mailto:maksim.mineeff@gmail.com">
@@ -47,15 +47,15 @@
 
   <h3 align="left">Интересные проекты:</h3>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=production-project)](https://github.com/ellepheria/production-project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mineevmaxim&repo=production-project)](https://github.com/ellepheria/production-project)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akakayka&repo=Mobile-app)](https://github.com/akakayka/Mobile-app)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=Ulearn-Python)](https://github.com/ellepheria/Ulearn-Python)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=UsmaTimetableBot)](https://github.com/ellepheria/UsmaTimetableBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mineevmaxim&repo=Ulearn-Python)](https://github.com/ellepheria/Ulearn-Python)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mineevmaxim&repo=UsmaTimetableBot)](https://github.com/ellepheria/UsmaTimetableBot)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=ulearn-practicies)](https://github.com/ellepheria/ulearn-practicies)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=digital-portfolio-fj)](https://github.com/ellepheria/digital-portfolio-fj)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mineevmaxim&repo=ulearn-practicies)](https://github.com/ellepheria/ulearn-practicies)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mineevmaxim&repo=digital-portfolio-fj)](https://github.com/ellepheria/digital-portfolio-fj)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellepheria)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mineevmaxim)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
