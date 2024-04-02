@@ -15,7 +15,7 @@
   </div>
   <h1>Максим, Frontend-разработчик</h1>
 
-  <h2>Обо мне:</h2>
+  <h3 align="left">Обо мне:</h3>
 
   <ul align="left">
     <li>
@@ -29,8 +29,9 @@
     </li>
   </ul>
 
-  <h2>Мой стек:</h2>
+  
 
+  <h3 align="left">Мой стек:</h3>
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/eaa095ed-622a-479c-a23e-c9250a4fcbf5" alt="HTML5" width="50" />
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/93c55446-8859-4bb9-a029-0827768d5dc3" alt="CSS" width="50" />
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/515b5481-8c0d-4a36-bb39-1221316f1f2e" alt="SASS" width="50" />
@@ -42,7 +43,9 @@
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/766bed58-8b49-4a96-b2ae-15345ef58cb5" alt="PYTHON" width="50" />
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/f52ad7cb-a339-415d-a8a6-15bdd2b87106" alt="C#" width="50" />
 
-  ----
+  
+
+  <h3 align="left">Интересные проекты:</h3>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ellepheria&repo=production-project)](https://github.com/ellepheria/production-project)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akakayka&repo=Mobile-app)](https://github.com/akakayka/Mobile-app)
