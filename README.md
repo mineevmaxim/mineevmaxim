@@ -10,7 +10,7 @@
     </a>
     <a href="mailto:maksim.mineeff@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+    </a> 
   </div>
   <h1>Максим, Frontend-разработчик</h1>
 
