@@ -2,7 +2,7 @@
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/40e23739-1742-4b85-b7c0-da3723a9fbf4" width="200"/>
 
   <div id="badges"> 
-    <a href="https://t.me/mineevmaxim">
+    <a href="https://t.me/mineevms">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
     <a href="https://vk.com/mineevmaxim">
