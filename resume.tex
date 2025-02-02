@@ -1,0 +1,168 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
+\usepackage[english, russian]{babel}
+\input{glyphtounicode}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\pdfgentounicode=1
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\Huge \scshape Максим Минеев} \\ \vspace{1pt}
+    \small +7-901-413-4083 $|$ \href{mailto:maksim.mineeff@gmail.com}{\underline{maksim.mineeff@gmail.com}} $|$ 
+    \href{https://github.com/mineevmaxim}{\underline{github.com/mineevmaxim}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Образование}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Университет УрФУ}{Екатеринбург}
+      {Программная инженерия}{Сент. 2022 -- Июнь 2026}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Опыт}
+  \resumeSubHeadingListStart
+
+      \resumeSubheading
+      {C\# Разработчик}{Янв. 2024 -- Июль. 2024}
+      {66bit}{Удаленно}
+      \resumeItemListStart
+        \resumeItem{Поддерживал и улучшал кодовую базу существующих микросервисов на С\#}
+        \resumeItem{Внедрил CI/CD для удобства разработки и деплоя}
+        \resumeItem{Обеспечивал чистую архитектуру и высокую надежность системы}
+        \resumeItem{Создавал микросервисы для работы с пользовательскими данными}
+        \resumeItem{Реализовал интеграцию с внешними API для расширения функционала платформы}
+      \resumeItemListEnd
+      
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Проекты}
+    \resumeSubHeadingListStart
+
+    \resumeProjectHeading
+      {\href{https://github.com/mineevmaxim/clean-cone}{\textbf{Markdown processor}} $|$ \emph{C\#, NUnit, FluentAssertions, TDD}}{Нояб. 2024 -- Дек. 2024}
+      \resumeItemListStart
+        \resumeItem{Использовал стиль Test Driven Desing для удобства разработки и тестирования}
+        \resumeItem{Разработал лексер для преобразования Markdown в токены}
+        \resumeItem{Реализовал парсер токенов в AST-дерево  Markdown}
+        \resumeItem{Разработал транслятор MD AST-дерева в HTML}
+        \resumeItem{Полностью покрыл код тестами с помощью NUnit, FluentAssertions}
+      \resumeItemListEnd
+
+    \resumeProjectHeading
+        {\href{https://github.com/mineevmaxim/tdd}{\textbf{Tags cloud}} $|$ \emph{C\#, NUnit, FluentAssertions, TDD, DDD, SixLabors.ImageSharp, DI, NHunspell}}{Окт. 2024}
+      \resumeItemListStart
+        \resumeItem{Разработал консольный интерфейс для генерации облака тегов}
+        \resumeItem{Реализовал архитектуру Domain Driven Design для удобства расширения и тестирования}
+        \resumeItem{Внедрил Dependency Injection для гибкого управления зависимостями}
+        \resumeItem{Использовал NHunspell для предобработки слов}
+        \resumeItem{Разработал алгоритм раскладки слов по спирали}
+        \resumeItem{Воспользовался библиотеками SixLabors для генерации итогового изображения облака тегов}
+      \resumeItemListEnd
+
+    \resumeSubHeadingListEnd
+
+%-----------COURSES-----------
+\section{Курсы}
+    \resumeSubHeadingListStart
+
+    \resumeProjectHeading
+        {\href{https://kontur.ru/education/programs/courses_backend/2024}{\textbf{Школа промышленной разработки, СКБ Контур}} $|$ \emph{Rest API, multithreading, безопасность, оптимизация}}
+
+    \resumeProjectHeading
+        {\href{https://ulearn.me/Course/cs2}{\textbf{Проектирование на C\#}} $|$ \emph{DDD, TDD, чистый код, рефлексия, FluentAPI, DI, исключения}}
+
+    \resumeProjectHeading
+        {\href{https://ulearn.me/Course/basicprogramming}{\textbf{Основы программирования 1, 2}} $|$ \emph{C\#, память, ООП, тестирование}}
+
+    \resumeProjectHeading
+        {\href{https://ulbitv.ru/frontend}{\textbf{Продвинутый frontend}} $|$ \emph{React, RTKQuery, Storybook, Jest, i18n, CI/CD, Cypress, pre-commit hooks}}
+
+    \resumeSubHeadingListEnd
+
+%-----------PROGRAMMING SKILLS-----------
+\section{Навыки}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Языки программирования}{ C\#, TypeScript, Python, PHP, SQL, PostgreSQL } \\
+     \textbf{Инструменты}{: Git, Docker } \\
+     \textbf{Библиотеки}{: ASP.NET Core, NUnit, FluentAssertions,  React, Angular }
+    }}
+ \end{itemize}
+
+\end{document}
