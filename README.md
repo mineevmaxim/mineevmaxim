@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=5C5C5C" alt="Gmail Badge"/>
     </a> 
   </div>
-  <h1>Максим, Backend-разработчик</h1>
+  <h1>Максим, разработчик</h1>
 
   <h3 align="left">Обо мне:</h3>
 
