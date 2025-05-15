@@ -14,32 +14,16 @@
   </div>
   <h1>Максим, разработчик</h1>
 
-  <h3 align="left">Обо мне:</h3>
-
-  <ul align="left">
-    <li>
-      Студент третьего курса Уральского Федерального Университета, направление "Программная инженерия";
-    </li>
-    <li>
-      Окончил ФизМат профиль Специализированного Учебно-Научного Центра УрФУ;
-    </li>
-    <li>
-      С 2020 года изучаю Web-разработку, выполнил несколько индивидуалных и командных учебных проектов, в команде участвовал в ролях Тимлида и Frontend-разработчика;
-    </li>
-  </ul>
-
-  
-
   <h3 align="left">Мой стек:</h3>
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/f52ad7cb-a339-415d-a8a6-15bdd2b87106" alt="C#" width="50" />
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/920050d0-23ef-410a-82a1-a08dc14dcadc" alt="REACTJS" width="50" />
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/b24fb701-47a5-4ab6-82de-bc4235d6884d" alt="TS" width="50" />
-  <img src="https://github.com/ellepheria/ellepheria/assets/98586096/eaa095ed-622a-479c-a23e-c9250a4fcbf5" alt="HTML5" width="50" />
-  <img src="https://github.com/ellepheria/ellepheria/assets/98586096/93c55446-8859-4bb9-a029-0827768d5dc3" alt="CSS" width="50" />
-  <img src="https://github.com/ellepheria/ellepheria/assets/98586096/515b5481-8c0d-4a36-bb39-1221316f1f2e" alt="SASS" width="50" />
-  <img src="https://github.com/ellepheria/ellepheria/assets/98586096/8a63b615-58d9-424e-8abc-7ee2776ba576" alt="WEBPACK" width="50" />
-  <img src="https://github.com/ellepheria/ellepheria/assets/98586096/2b2082dc-3442-4611-9922-296edf6205a1" alt="ESLINT" width="50" />
-  <img src="https://github.com/ellepheria/ellepheria/assets/98586096/766bed58-8b49-4a96-b2ae-15345ef58cb5" alt="PYTHON" width="50" />
+<!--   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/eaa095ed-622a-479c-a23e-c9250a4fcbf5" alt="HTML5" width="50" /> -->
+<!--   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/93c55446-8859-4bb9-a029-0827768d5dc3" alt="CSS" width="50" /> -->
+<!--   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/515b5481-8c0d-4a36-bb39-1221316f1f2e" alt="SASS" width="50" /> -->
+<!--   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/8a63b615-58d9-424e-8abc-7ee2776ba576" alt="WEBPACK" width="50" /> -->
+<!--   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/2b2082dc-3442-4611-9922-296edf6205a1" alt="ESLINT" width="50" /> -->
+<!--   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/766bed58-8b49-4a96-b2ae-15345ef58cb5" alt="PYTHON" width="50" /> -->
 
   
 
