@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=5C5C5C" alt="Gmail Badge"/>
     </a> 
   </div>
-  <h1>Максим, разработчик</h1>
+<!--   <h1>Максим, разработчик</h1> -->
 
   <h3 align="left">Мой стек:</h3>
   <img src="https://github.com/ellepheria/ellepheria/assets/98586096/f52ad7cb-a339-415d-a8a6-15bdd2b87106" alt="C#" width="50" />
